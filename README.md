@@ -1,5 +1,4 @@
-# CS470-Final
-## Final Project: Email Spam Classification
+# CS470-Final: Email Spam Classification
 
 # Instructions:
 - Implement the Naive Bayes, logistic regression, and KNN algorithm models for the purposes of Email spam classification given the provided data set.
